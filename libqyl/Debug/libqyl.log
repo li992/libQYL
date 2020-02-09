@@ -1,0 +1,7 @@
+﻿  Unification.cpp
+C:\Users\Leon\source\repos\libqyl\libqyl\Unification.cpp(124,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Leon\source\repos\libqyl\libqyl\Unification.cpp(144,13): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Leon\source\repos\libqyl\libqyl\Unification.cpp(173,13): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Leon\source\repos\libqyl\libqyl\Unification.cpp(195,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Leon\source\repos\libqyl\libqyl\Unification.cpp(296,13): warning C4018:  '<': signed/unsigned mismatch
+  libqyl.vcxproj -> C:\Users\Leon\source\repos\libqyl\Debug\libqyl.exe
