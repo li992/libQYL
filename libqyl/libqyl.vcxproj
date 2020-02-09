@@ -151,7 +151,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CFGtoChomskyMain.cpp" />
     <ClCompile Include="graphSearch.cpp" />
+    <ClCompile Include="graphSearchMain.cpp" />
+    <ClCompile Include="InfixPostfixConvertor.cpp" />
+    <ClCompile Include="InfixPostfixConvertorMain.cpp" />
+    <ClCompile Include="InfixPostfixConvertorTree.cpp" />
+    <ClCompile Include="InfixPostfixConvertorTreeMain.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Chomsky.cpp" />
     <ClCompile Include="Unification.cpp" />
@@ -160,11 +166,10 @@
   <ItemGroup>
     <ClInclude Include="graphSearch.h" />
     <ClInclude Include="Chomsky.h" />
+    <ClInclude Include="InfixPostfixConvertor.h" />
+    <ClInclude Include="InfixPostFixConvertorTree.h" />
     <ClInclude Include="Unification.h" />
     <ClInclude Include="ValComment.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="BackupMain.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

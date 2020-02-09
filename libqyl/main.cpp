@@ -1,6 +1,4 @@
-// Assignment 1
-//	Student: Qiaoyi Li
-//	SID: 200373380
+//  Author: li992
 //	Date: 2020/02/08
 //	Program purpose: Achieve unification in c++
 //  Test Cases:	f(f(f(X,Y),X),f(f(V,U),g(U,Y)))
